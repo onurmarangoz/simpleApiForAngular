@@ -1,6 +1,6 @@
 using System;
 
-namespace simpleApiForAngular
+namespace simpleApi
 {
     public class WeatherForecast
     {

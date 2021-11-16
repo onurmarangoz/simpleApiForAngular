@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 namespace simpleApi.Models
 {
-    public class Category
+    public class User
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
     }
 }
